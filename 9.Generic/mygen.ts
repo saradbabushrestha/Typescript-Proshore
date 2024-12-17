@@ -24,4 +24,4 @@ interface Bootle {
   type: number;
 }
 
-identityFour<Bootle>({});
+// identityFour<Bootle>({});
